@@ -1,5 +1,12 @@
 # Battle-Block-Theater-Level-Editor
-Custom made level editor for the Xbox 360 game Battle Block Theater
+
+Battle Block Theater is a video game developed by The Behemoth for Xbox and PC. The game includes an in-game level editor however it does not grant access to all blocks and backgrounds in the game. 
+
+As a result the Battle Block Theater community finding ways to fully customize levels by editing the hex data of the level files. This process, although functional, was very tedious and required a lot of trial and error along with requiring tech skills. 
+
+The Battle Block Theater Level Editor tool gives users a full GUI that allows them to change all aspects of the level and view their changes in realtime making the process of level editing simple and fast! 
+
+Additionally I have compiled a full resource table as an HTML page that displays all information on block id's and sprites. This table eliminates confusion about block id's (which are not listed anywhere) and defines them all for you.
 
 ### 1. How to get level file from Xbox to PC:
 
