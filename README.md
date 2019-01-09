@@ -10,6 +10,9 @@ The Battle Block Theater Level Editor tool gives users a full GUI that allows th
 
 Additionally I have compiled a full resource table as an HTML page that displays all information on block id's and sprites. This table eliminates confusion about block id's (which are not listed anywhere) and defines them all for you.
 
+Screenshot:
+![alt text](https://i.gyazo.com/d636934c3f5943862f0dd7fcdfe650b9.png)
+
 ### 1. How to get level file from Xbox to PC:
 
 #### a) On the Xbox:
