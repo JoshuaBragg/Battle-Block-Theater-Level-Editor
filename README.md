@@ -37,7 +37,7 @@ Screenshot:
   - Click 'Open File' and locate the level file you extracted
   - You can edit the parameters on the top left. Once you have changed any of those parameters click update and the screen on the right will reflect relevant changes
   - On the right there will be a screen allowing you to edit the blocks in your level. Simply type a blockID into the textbox in the top left of the level preview to select that block
-  - You can get all blockID's from https://wiizrdz.github.io/Battle-Block-Theater-Level-Editor/ the blockID's are the decimal numbers
+  - You can get all blockID's from https://joshbra.gg/Battle-Block-Theater-Level-Editor/ the blockID's are the decimal numbers
   - This website also has tables listing all other resources
   - Left Click to place the selected block where your cursor is hovering
   - Right Click to delete the block you are hovering over
