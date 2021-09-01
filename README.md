@@ -1,6 +1,6 @@
 # Battle-Block-Theater-Level-Editor
 
-Source Code: https://github.com/WiizRDz/Battle-Block-Theater-Level-Editor-Source-Code
+Source Code: https://github.com/JoshuaBragg/Battle-Block-Theater-Level-Editor-Source-Code
 
 Battle Block Theater is a video game developed by The Behemoth for Xbox and PC. The game includes an in-game level editor however it does not grant access to all blocks and backgrounds in the game. 
 
