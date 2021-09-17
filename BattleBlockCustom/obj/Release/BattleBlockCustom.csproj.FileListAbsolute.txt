@@ -1,0 +1,11 @@
+G:\Users\Josh\Documents\Visual Studio 2015\Projects\BattleBlockCustom\BattleBlockCustom\bin\Release\BattleBlockCustom.exe.config
+G:\Users\Josh\Documents\Visual Studio 2015\Projects\BattleBlockCustom\BattleBlockCustom\bin\Release\BattleBlockCustom.exe
+G:\Users\Josh\Documents\Visual Studio 2015\Projects\BattleBlockCustom\BattleBlockCustom\bin\Release\BattleBlockCustom.pdb
+G:\Users\Josh\Documents\Visual Studio 2015\Projects\BattleBlockCustom\BattleBlockCustom\obj\Release\BattleBlockCustom.csprojResolveAssemblyReference.cache
+G:\Users\Josh\Documents\Visual Studio 2015\Projects\BattleBlockCustom\BattleBlockCustom\obj\Release\BattleBlockCustom.Window.resources
+G:\Users\Josh\Documents\Visual Studio 2015\Projects\BattleBlockCustom\BattleBlockCustom\obj\Release\BattleBlockCustom.Properties.Resources.resources
+G:\Users\Josh\Documents\Visual Studio 2015\Projects\BattleBlockCustom\BattleBlockCustom\obj\Release\BattleBlockCustom.csproj.GenerateResource.cache
+G:\Users\Josh\Documents\Visual Studio 2015\Projects\BattleBlockCustom\BattleBlockCustom\obj\Release\BattleBlockCustom.csproj.CoreCompileInputs.cache
+G:\Users\Josh\Documents\Visual Studio 2015\Projects\BattleBlockCustom\BattleBlockCustom\obj\Release\BattleBlockCustom.exe
+G:\Users\Josh\Documents\Visual Studio 2015\Projects\BattleBlockCustom\BattleBlockCustom\obj\Release\BattleBlockCustom.pdb
+G:\Users\Josh\Documents\Visual Studio 2015\Projects\BattleBlockCustom\BattleBlockCustom\obj\Release\BattleBlockCustom.Help.resources
